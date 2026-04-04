@@ -1,5 +1,8 @@
 package dev.stemvault.db;
 
-public class SampleRepository {
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
-}
+public class SampleRepository {}
